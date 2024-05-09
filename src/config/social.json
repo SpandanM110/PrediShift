@@ -1,0 +1,20 @@
+{
+  "main": [
+    
+    {
+      "name": "twitter",
+      "icon": "FaTwitter",
+      "link": "https://twitter.com/spandan_twts"
+    },
+    {
+      "name": "github",
+      "icon": "FaGithub",
+      "link": "https://www.github.com/SpandanM110"
+    },
+    {
+      "name": "linkedin",
+      "icon": "FaLinkedin",
+      "link": "https://www.linkedin.com/spandanm110"
+    }
+  ]
+}

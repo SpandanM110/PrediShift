@@ -1,0 +1,50 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/"
+    },
+    {
+      "name": "About",
+      "url": "/about"
+    },
+    {
+      "name": "Services",
+      "url": "/elements"
+    },
+    {
+      "name": "Pages",
+      "url": "",
+      "hasChildren": true,
+      "children": [
+        
+        {
+          "name": "Blog",
+          "url": "/blog"
+        },
+        {
+          "name": "Categories",
+          "url": "/categories"
+        },
+        {
+          "name": "Contact",
+          "url": "/contact"
+        },
+        {
+          "name": "Developers",
+          "url": "/authors"
+        }
+      ]
+    }
+  ],
+  "footer": [
+    {
+      "name": "Services",
+      "url": "/elements"
+    },
+    {
+      "name": "Privacy Policy",
+      "url": "/privacy-policy"
+    }
+  ]
+}

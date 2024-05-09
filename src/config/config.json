@@ -1,0 +1,47 @@
+{
+  "site": {
+    "title": "Mitigrater",
+    "base_url": "https://github.com/Mitigrater",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_darkmode": "/images/logo-darkmode.png",
+    "logo_width": "150",
+    "logo_height": "40",
+    "logo_text": "Mitigrater"
+  },
+
+  "settings": {
+    "search": true,
+    "sticky_header": true,
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 2,
+    "summary_length": 200,
+    "blog_folder": "blog"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Designed And Developed by Sparsh Kandpal and Spandan Mukherjee"
+  },
+
+  "navigation_button": {
+    "enable": true,
+    "label": "Get Started",
+    "link": "https://github.com/Mitigrater"
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "Migrater Template",
+    "settings": {}
+  },
+
+  "metadata": {
+    "meta_author": "zeon.studio",
+    "meta_image": "/images/banner.png",
+    "meta_description": "Landing Page"
+  }
+}
