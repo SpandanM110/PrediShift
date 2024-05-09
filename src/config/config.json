@@ -9,7 +9,7 @@
     "logo_darkmode": "/images/logo-darkmode.png",
     "logo_width": "150",
     "logo_height": "40",
-    "logo_text": "Mitigrater"
+    "logo_text": "PrediShift"
   },
 
   "settings": {
@@ -24,13 +24,13 @@
 
   "params": {
     "contact_form_action": "#",
-    "copyright": "Designed And Developed by Sparsh Kandpal and Spandan Mukherjee"
+    "copyright": "Designed And Developed by Cutting_Chai"
   },
 
   "navigation_button": {
     "enable": true,
     "label": "Get Started",
-    "link": "https://github.com/Mitigrater"
+    "link": "https://github.com/SpandanM110"
   },
 
   "disqus": {
