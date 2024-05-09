@@ -1,14 +1,13 @@
 ---
-
 # Banner
 banner:
-  title: "Mitigrater: Swift Platform Migration and Code Conversion"
-  content: "Utilize Mitigrater for seamless transitions between clouds and architectures, with integrated climate change adaptation strategies."
+  title: "PrediShift: Swift Platform Migration and Code Conversion"
+  content: "Utilize PrediShift for seamless transitions between clouds and architectures, with integrated climate change adaptation strategies."
   image: "/images/banner.png"
   button:
     enable: true
     label: "Get Started Now"
-    link: "https://mitigrater.com"
+    link: "#"
 
 # Features
 features:
@@ -23,7 +22,7 @@ features:
     button:
       enable: true
       label: "Learn More"
-      link: "https://mitigrater.com/os-migration"
+      link: "#"
 
   - title: "Cloud Native Components Adoption"
     image: "/images/service-2.png"
@@ -36,7 +35,7 @@ features:
     button:
       enable: true
       label: "Learn More"
-      link: "https://mitigrater.com/cloud-native-components"
+      link: "#"
 
   - title: "Cloud Provider Migration"
     image: "/images/service-3.png"
@@ -49,7 +48,7 @@ features:
     button:
       enable: true
       label: "Learn More"
-      link: "https://mitigrater.com/cloud-provider-migration"
+      link: "#"
 
   - title: "Tech Stack Conversion"
     image: "/images/og-image.png"
@@ -57,12 +56,12 @@ features:
     bulletpoints:
       - "Convert Java to Node.js for improved performance and scalability"
       - "Utilize modern frameworks and libraries for enhanced development experience"
-      - "Automate code conversion with Mitigrater's AI-powered tools"
+      - "Automate code conversion with PrediShift's AI-powered tools"
       - "Ensure seamless integration with existing systems"
     button:
       enable: true
       label: "Learn More"
-      link: "https://mitigrater.com/tech-stack-conversion"
+      link: "#"
 
   - title: "Database Conversion"
     image: "/images/Data-Conversion.png"
@@ -70,12 +69,12 @@ features:
     bulletpoints:
       - "Migrate from relational databases to NoSQL for increased flexibility"
       - "Leverage cloud-native databases for scalability and reliability"
-      - "Automate schema conversion with Mitigrater's intelligent tools"
+      - "Automate schema conversion with PrediShift's intelligent tools"
       - "Ensure data consistency and integrity throughout the migration process"
     button:
       enable: true
       label: "Learn More"
-      link: "https://mitigrater.com/database-conversion"
+      link: "#"
 
   - title: "Emergency System"
     image: "/images/emergency.jpg"
@@ -88,6 +87,5 @@ features:
     button:
       enable: true
       label: "Learn More"
-      link: "https://mitigrater.com/emergency-system"
-
+      link: "#"
 ---

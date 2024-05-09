@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "Mitigrater",
-    "base_url": "https://github.com/Mitigrater",
+    "title": "PrediShift",
+    "base_url": "https://github.com/SpandanM110",
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/favicon.png",
@@ -35,13 +35,13 @@
 
   "disqus": {
     "enable": true,
-    "shortname": "Migrater Template",
+    "shortname": "PrediShift",
     "settings": {}
   },
 
   "metadata": {
     "meta_author": "zeon.studio",
     "meta_image": "/images/banner.png",
-    "meta_description": "Landing Page"
+    "meta_description": "Product Page"
   }
 }

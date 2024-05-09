@@ -29,10 +29,6 @@
         {
           "name": "Contact",
           "url": "/contact"
-        },
-        {
-          "name": "Developers",
-          "url": "/authors"
         }
       ]
     }
