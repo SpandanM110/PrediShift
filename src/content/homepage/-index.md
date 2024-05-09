@@ -11,6 +11,19 @@ banner:
 
 # Features
 features:
+  - title: "Emergency System"
+    image: "/images/emergency.jpg"
+    content: "Mitigate emergencies effectively with AI-driven insights and real-time data analysis."
+    bulletpoints:
+      - "Utilize predictive climate data for proactive emergency management"
+      - "Implement city-based emergency detection system for rapid response"
+      - "Coordinate resources and communications efficiently during emergencies"
+      - "Ensure resilience and continuity of operations in challenging scenarios"
+    button:
+      enable: true
+      label: "Learn More"
+      link: "#"
+
   - title: "Operating System Migration"
     image: "/images/service-1.png"
     content: "Migrate from Windows to RHEL seamlessly, ensuring compatibility and performance."
@@ -76,16 +89,5 @@ features:
       label: "Learn More"
       link: "#"
 
-  - title: "Emergency System"
-    image: "/images/emergency.jpg"
-    content: "Mitigate emergencies effectively with AI-driven insights and real-time data analysis."
-    bulletpoints:
-      - "Utilize predictive climate data for proactive emergency management"
-      - "Implement city-based emergency detection system for rapid response"
-      - "Coordinate resources and communications efficiently during emergencies"
-      - "Ensure resilience and continuity of operations in challenging scenarios"
-    button:
-      enable: true
-      label: "Learn More"
-      link: "#"
+  
 ---
