@@ -5,7 +5,7 @@ description: "this is meta description"
 date: 2023-14-04T05:00:00Z
 image: "/images/og-image.png"
 categories: ["Software"]
-author: "Sparsh Kandpal"
+author: "Swapnil Baviskar"
 tags: ["software", "Innovation"]
 draft: false
 ---

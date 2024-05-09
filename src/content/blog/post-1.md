@@ -5,7 +5,7 @@ description: "this is meta description"
 date: 2023-14-04T05:00:00Z
 image: "/images/service-2.png"
 categories: ["Application", "Data"]
-author: "Spandan Mukherjee"
+author: "Arpit Jaiswal"
 tags: ["Cloud", "OS"]
 draft: false
 ---
